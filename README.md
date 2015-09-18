@@ -8,6 +8,18 @@
 
 ======
 
+#This repository is outdated
+
+This was the original OpenBazaar repository, and is outdated. The project has now been split into multiple repositories.
+
+1. [OpenBazaar-Server](https://github.com/OpenBazaar/OpenBazaar-Server): Server daemon for communication between client and OpenBazaar network
+2. [OpenBazaar-Client](https://github.com/OpenBazaar/OpenBazaar-Client): Front-end Electron application for talking with the server
+3. [OpenBazaar-Installer](https://github.com/OpenBazaar/OpenBazaar-Installer) Process for building the OpenBazaar executables on OSX, Linux and Windows
+
+The information below in this readme is likely outdated. To find the most recent information, please visit the new repositories listed above.
+
+======
+
 Let's make trade **free**.
 
 **OpenBazaar** is a decentralized peer-to-peer marketplace where goods and services are traded in Bitcoin. OpenBazaar uses a Kademlia-style distributed hash table (DHT), which is architecturally comparable to BitTorrent. Items are created and hosted on the nodes of users on the network. The project is originally based off of the proof of concept code for DarkMarket, created by Amir Taaki and Airbitz, and is now licensed under the [MIT license](http://opensource.org/licenses/MIT).
