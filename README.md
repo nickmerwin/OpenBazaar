@@ -75,6 +75,11 @@ OpenBazaar will open in a random port on your default web browser. Note that it 
 
 Read more on [build instructions in our wiki](https://github.com/OpenBazaar/OpenBazaar/wiki/01.-Getting-Started).
 
+## Removing The Software
+In order to uninstall the (deprecated) OpenBazaar, you can delete the data repository that was installed from Github (this should be a folder on your computer labeled "OpenBazaar"). If you want to remove dependencies, you can view the list here:
+
+https://github.com/OpenBazaar/OpenBazaar/blob/develop/requirements.txt
+
 ## Artwork Contributions
 <img src="https://blog.openbazaar.org/wp-content/uploads/2014/07/logo.png" width="500px"/>  
 contributed by Jacob Payne  
